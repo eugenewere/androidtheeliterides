@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">The Elite Rides</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Eugene Were</string>
+    <string name="nav_header_subtitle">eugene.were@yahoo.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register">REGISTER</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="user_details">User Details:</string>
+    <string name="loginamallcaps">login</string>
+    <string name="need_an_account">Need An Account</string>
+    <string name="cardimage">card_image</string>
+    <string name="car_name">Dodge Challanger HellCat 720hp</string>
+    <string name="daily">/daily</string>
+    <string name="price">1200</string>
+    <string name="currency">Ksh</string>
+    <string name="numberfive">5</string>
+    <string name="icon">icon</string>
+    <string name="fuel">Petrol</string>
+    <string name="automatic">Automatic</string>
+    <string name="dotimage">dot</string>
+    <string name="seat_no">Seater</string>
+    <string name="images">Images</string>
+    <string name="description">Description</string>
+    <string name="loreipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

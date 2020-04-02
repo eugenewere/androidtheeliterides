@@ -1,0 +1,70 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name = "noactionbar" parent = "android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">false</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TextAppearance.MyApp.NumberPicker" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">@color/colorBlack</item>
+        <item name="android:textStyle">bold</item>
+        <item name="colorControlNormal">@color/colorPrimary</item>
+    </style>
+    <style name="custombuttons">
+        <item name="android:buttonCornerRadius">30dp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="AppFullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:textColorHint">@color/colorBlack</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+     <style name="counterText">
+         <item name="android:textColor">@color/colorPrimary</item>
+     </style>
+    <style name="counterOverride">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="roundedStartBtn" >
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">24dp</item>
+        <item name="cornerSizeBottomLeft">24dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+
+    <style name="roundedEndBtn">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+
+    <style name="MyToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Dark">
+        <item name="colorControlNormal">@color/colorBluishWhite</item>
+        <item name="titleTextColor">@color/colorBluishWhite</item>
+    </style>
+
+</resources>
